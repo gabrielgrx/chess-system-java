@@ -9,7 +9,7 @@
 
 ### Descrição do Projeto
 
-* O projeto consiste em um jogo de xadrez que foi desenvolvido durante o curso "Java COMPLETO Programação Orientada a Objetos +Projetos" pelo professor Nelio ALves.
+* O projeto consiste em um jogo de xadrez que foi desenvolvido durante o curso "Java COMPLETO Programação Orientada a Objetos +Projetos" pelo professor Nelio Alves.
  O projeto apresenta todas as funcionalidades do jogo, incluindo jogadas especiais como: Castling, En Passant e Promotion.
 
 ##

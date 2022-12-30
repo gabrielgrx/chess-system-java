@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-chess-system-design.png
+*.png
 *.jar
 *.war
 *.nar
